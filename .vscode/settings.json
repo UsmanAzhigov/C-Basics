@@ -1,0 +1,8 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "*.tpl": "html",
+    "*.svelte": "html",
+    "stdio.h": "c"
+  }
+}
